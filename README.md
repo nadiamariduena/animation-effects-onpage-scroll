@@ -16,9 +16,6 @@ https://www.sitepoint.com/cool-scroll-animations-made-easy-aos-library/ - source
 
 <!-- https://www.youtube.com/watch?v=JcHLxzrsRS4 -->
 
-
-
-
 <hr>
 
 ```javascript
@@ -39,3 +36,7 @@ npm i react-router-dom
 
 npm i aos --save
 ```
+
+### Initialization
+
+![image1](./img/init-aos.gif)
