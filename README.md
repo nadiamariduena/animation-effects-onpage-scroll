@@ -39,4 +39,4 @@ npm i aos --save
 
 ### Initialization
 
-![image1](./img/init-aos.gif)
+![image1](./src/img/init-aos.gif)
