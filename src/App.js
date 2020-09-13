@@ -1,11 +1,10 @@
 import React, { useEffect } from "react";
-import Pricing from "./components/Pricing";
+import Content from "./components/Content";
 
 const App = () => {
   return (
     <React.Fragment>
-      <h1>hello</h1>
-      <Pricing />
+      <Content />
     </React.Fragment>
   );
 };

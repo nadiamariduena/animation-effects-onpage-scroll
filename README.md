@@ -16,6 +16,9 @@ https://www.sitepoint.com/cool-scroll-animations-made-easy-aos-library/ - source
 
 <!-- https://www.youtube.com/watch?v=JcHLxzrsRS4 -->
 
+https://github.com/michalsnik/aos#animations - Link to github repo AOS!
+[Link](https://github.com/michalsnik/aos#animations)
+
 <hr>
 
 ```javascript

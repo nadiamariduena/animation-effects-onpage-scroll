@@ -1,3 +1,31 @@
 body {
-  background-color: seagreen;
+  background-color: lemonchiffon;
+  overflow-x: hidden;
+  font-family: Arial, Helvetica, sans-serif;
+
+  .boxContainer {
+    width: 100vw;
+    height: auto;
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    .boxes {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      //
+      //
+      width: 30%;
+      height: 200px;
+      max-height: 35vh;
+      background-color: seagreen;
+      margin: 40px;
+      overflow: hidden;
+      box-shadow: 0px 12px 18px -6px #666;
+      border-radius: 10px;
+    }
+  }
 }

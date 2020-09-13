@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import Aos from "aos";
 import "aos/dist/aos.css";
 
-const Pricing = () => {
+const Content = () => {
   /*
 
                 -----------------------------------
@@ -25,14 +25,33 @@ const Pricing = () => {
   // ------  INITIALIZE AOS  -------
   return (
     <React.Fragment>
-      <h1>hello pricing</h1>
-      <div className="boxes1"></div>
-      <div className="boxes2"></div>
-      <div className="boxes3"></div>
-      <div className="boxes4"></div>
-      <div className="boxes5"></div>
+      <div className="boxContainer">
+        <h1>EXAMPLES</h1>
+        <div className="boxes">1</div>
+        <div className="boxes">2</div>
+
+        <div data-aos="fade-down" className="boxes">
+          fade-down
+        </div>
+
+        <div data-aos="fade-up" className="boxes">
+          fade-up
+        </div>
+        <div data-aos="fade-right" className="boxes">
+          fade-right
+        </div>
+        <div data-aos="fade-left" className="boxes">
+          fade-left
+        </div>
+        <div data-aos="flip-right" className="boxes">
+          flip-right
+        </div>
+        <div data-aos="fade-down-right" className="boxes">
+          fade-down-right
+        </div>
+      </div>
     </React.Fragment>
   );
 };
 
-export default Pricing;
+export default Content;
