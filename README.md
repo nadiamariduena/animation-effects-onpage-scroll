@@ -2,6 +2,13 @@
 
 #### There are many libraries to make "animation effects on page scroll" easier for us. AOS, also called Animate on Scroll, is one such library and it does exactly what its name suggests: it lets you apply different kinds of animations to elements as they scroll into view.
 
+<br>
+<br>
+
+![image1](./src/img/aos-anim.gif)
+
+<br>
+
 <p>There are several types of animation you can choose from. For example, you can add fade animations like “fade”, “fade-up” and “fade-down-left”. Similarly, you can also add flip and slide animations like “flip-up”, “flip-left”, “slide-down”, and “slide-right”.</p>
 
 <br>
