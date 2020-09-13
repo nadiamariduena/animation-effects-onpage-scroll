@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/animation-effects-onpage-scroll/static/css/main.3d30c2f3.chunk.css",
+    "main.js": "/animation-effects-onpage-scroll/static/js/main.db3c4de5.chunk.js",
+    "main.js.map": "/animation-effects-onpage-scroll/static/js/main.db3c4de5.chunk.js.map",
+    "runtime-main.js": "/animation-effects-onpage-scroll/static/js/runtime-main.62da0daf.js",
+    "runtime-main.js.map": "/animation-effects-onpage-scroll/static/js/runtime-main.62da0daf.js.map",
+    "static/css/2.4707e12a.chunk.css": "/animation-effects-onpage-scroll/static/css/2.4707e12a.chunk.css",
+    "static/js/2.4263460f.chunk.js": "/animation-effects-onpage-scroll/static/js/2.4263460f.chunk.js",
+    "static/js/2.4263460f.chunk.js.map": "/animation-effects-onpage-scroll/static/js/2.4263460f.chunk.js.map",
+    "index.html": "/animation-effects-onpage-scroll/index.html",
+    "precache-manifest.ec9e4576a121b152a8e25c6c36419107.js": "/animation-effects-onpage-scroll/precache-manifest.ec9e4576a121b152a8e25c6c36419107.js",
+    "service-worker.js": "/animation-effects-onpage-scroll/service-worker.js",
+    "static/css/2.4707e12a.chunk.css.map": "/animation-effects-onpage-scroll/static/css/2.4707e12a.chunk.css.map",
+    "static/css/main.3d30c2f3.chunk.css.map": "/animation-effects-onpage-scroll/static/css/main.3d30c2f3.chunk.css.map",
+    "static/js/2.4263460f.chunk.js.LICENSE.txt": "/animation-effects-onpage-scroll/static/js/2.4263460f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62da0daf.js",
+    "static/css/2.4707e12a.chunk.css",
+    "static/js/2.4263460f.chunk.js",
+    "static/css/main.3d30c2f3.chunk.css",
+    "static/js/main.db3c4de5.chunk.js"
+  ]
+}

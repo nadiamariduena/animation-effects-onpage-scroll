@@ -1,0 +1,2 @@
+body{background-color:#fffacd;overflow-x:hidden;font-family:Arial,Helvetica,sans-serif}body .boxContainer{width:100vw;height:auto;padding:20px 0;flex-direction:column}body .boxContainer,body .boxContainer .boxes{display:flex;justify-content:center;align-items:center}body .boxContainer .boxes{width:30%;height:200px;max-height:35vh;background-color:#2e8b57;margin:40px;overflow:hidden;box-shadow:0 12px 18px -6px #666;border-radius:10px}
+/*# sourceMappingURL=main.3d30c2f3.chunk.css.map */
