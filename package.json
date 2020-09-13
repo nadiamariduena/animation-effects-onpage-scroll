@@ -1,0 +1,28 @@
+{
+  "name": "react-scrollfade-anim1-aos",
+  "version": "1.0.0",
+  "description": "#### There are many libraries to make \"animation effects on page scroll\" easier for us. AOS, also called Animate on Scroll, is one such library and it does exactly what its name suggests: it lets you apply different kinds of animations to elements as they scroll into view.",
+  "main": "index.js",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "author": "nadia mariduena",
+  "license": "ISC",
+  "dependencies": {
+    "aos": "^2.3.4",
+    "autoprefixer": "^9.8.0",
+    "node-sass": "^4.14.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^3.4.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
